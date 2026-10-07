@@ -1,0 +1,13 @@
+# Local challenge artifacts and secrets
+Attackative Directory/userlist.txt
+Attackative Directory/passwordlist.txt
+Attackative Directory/valid-users.txt
+Attackative Directory/asrep-hashes.txt
+asrep-hashes.txt
+valid-users.txt
+/tmp/backup_credentials.txt
+
+# Local OS/editor files
+.DS_Store
+*.swp
+.vscode/
